@@ -1,0 +1,12 @@
+com\feuji\controller\ValidationController.class
+com\feuji\controller\FeujiHomeController.class
+com\feuji\repository\CandidateRepository.class
+com\feuji\beans\FeujiSolutions.class
+com\feuji\controller\FeujiApplicationController.class
+com\feuji\config\FeujilMVCConfig.class
+com\feuji\service\CandidateService.class
+com\feuji\beans\Candidate.class
+com\feuji\exceptions\RecordNotFoundException.class
+com\feuji\service\CandidateServiceImpl.class
+com\feuji\entities\CandidateEntity.class
+com\feuji\config\HibernateConfig.class
